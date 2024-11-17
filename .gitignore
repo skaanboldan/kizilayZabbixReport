@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+
+kizilayZabbixReport/src/main/java/org/kizilay/connFile.java
